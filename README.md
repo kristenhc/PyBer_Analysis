@@ -20,6 +20,8 @@ Despite the higher fare cost per ride and driver in rural areas, urban areas out
 ## 3 Summary:
 - Urban cities have the highest total fare and amount of rides, therefore accounting for most of the company's revenue. PyBer should invest in continuing and improving business here. Perhaps further analyses to examine demand for rides and number of drivers would be helpful to ensure the volume demand for rides is being met to ensure max profitability. And if not, to increase drivers to meet the demand. 
 
-- Similarily, it should be examined whether the lower ridership in rural areas is due to lack of demand or lack of available drivers. If low ridership is due to lack of available drivers, PyBer may be losing out on profits. It would be helpful to look at fare cost per mile in each area to examine the cause of higher fare per ride/driver in rural areas is due to distance.
+- Similarily, it should be examined whether the lower ridership in more rural areas is due to lack of demand or lack of available drivers. If low ridership is due to lack of available drivers, PyBer may be losing out on profits. While Rural Cities and Suburban Cities are underserved, it would be necesary to perform more analyses if there is enough demand to invest in hiring more drivers. It would be helpful to look at fare cost per mile in each area to examine if the higher fare per ride/driver in rural areas is due to distance. 
 
-- While Rural Cities and Suburban Cities are underserved, it would be necesary to perform more analyses if there is enough demand to invest in hiring more drivers.
+- At the end of February, there is a increase in fare revenue across all city area types. Expanding our analyses to the entire year and across year would be helpful to examine relationships between demand and time of year. If we establish time periods with higher demand, we will want to capitalize on that by either increasing fare prices and availability of drivers.
+
+
